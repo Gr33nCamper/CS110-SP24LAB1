@@ -61,6 +61,20 @@ Favorite book series to read as a kid: _Animorphs_
 
 &nbsp;
 
+## Places I've visited or would like to visit (in no particular order):
+- [x] West Lafayette, IN
+- [ ] Michigan
+- [ ] Finland
+- [ ] United Kingdom
+- [x] Fredericksburg, TX
+- [x] Mooringsport, LA
+- [x] Seattle, WA
+- [x] Chengdu, China
+
+
+
+&nbsp;
+
 ## Pictures I took
 
 <img src=Images/IMG_2526.JPG width="600" height="450" />
