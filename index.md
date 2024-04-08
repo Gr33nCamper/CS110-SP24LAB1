@@ -1,5 +1,7 @@
 # A little bit about me
 
+<img src=Images/IMG_5747.jpg width="200" height="200" />
+
 Hello! My name is Paul Peng. I'm a 4th year at UCSD studying biochemistry and mathematics-computer science. I have experience with the major programming languages (python, java, C and C++) and am familiar with markdown. 
 
 Not sure what people want to see for the code section, but here's a python method I wrote for a CSE105 project last quarter:
@@ -61,14 +63,14 @@ Favorite book series to read as a kid: _Animorphs_
 
 ## Pictures I took
 
-![Hometown](Images/IMG_2526.JPG)
+<img src=Images/IMG_2526.JPG width="600" height="450" />
 Hometown: Fremont, CA (a city in the east SF bay area)
 
 &nbsp;
 
 &nbsp;
 
-![Yosemite](Images/IMG_5747.jpg)
+<img src=Images/IMG_5747.jpg width="600" height="450" />
 Where I went over spring break: Yosemite National Park
 
 &nbsp;
