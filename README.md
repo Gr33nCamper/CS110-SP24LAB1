@@ -1,1 +1,1 @@
-# CS110-SP24LAB1
+Python is my favorite programming language
