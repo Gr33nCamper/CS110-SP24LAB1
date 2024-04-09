@@ -96,12 +96,12 @@ This ranking of the seasons:
 
 ## Pictures I took
 
-<img src=https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_2526.JPG width="600" height="450">
+<img src=https://github.com/Gr33nCamper/CS110-SP24LAB1/raw/add-fav-coding-lang/Images/IMG_2526.JPG width="600" height="450">
 Hometown: Fremont, CA (a city in the east SF bay area)
 
 &nbsp;
 
-[Where I went over spring break](https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_5747.jpg?raw=true)
+Where I went over spring break: [Yosemite National Park](https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_5747.jpg?raw=true)
 
 &nbsp;
 
@@ -111,6 +111,4 @@ Hometown: Fremont, CA (a city in the east SF bay area)
 
 ---
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-[Link to readme](https://github.com/Gr33nCamper/CS110-SP24LAB1/README)
+[README](https://github.com/Gr33nCamper/CS110-SP24LAB1/README)
