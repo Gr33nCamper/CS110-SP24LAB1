@@ -1,6 +1,6 @@
 # A little bit about me
 
-<img src=Images/IMG_9715.jpg width="480" height="550" />
+<img src="/Images/IMG_9715.jpg" alt="image" width="300" height="auto">
 
 Hello! My name is Paul Peng. I'm a 4th year at UCSD studying biochemistry and mathematics-computer science. I have experience with the major programming languages (python, java, C and C++) and am familiar with markdown. 
 
