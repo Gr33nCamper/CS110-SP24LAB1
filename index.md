@@ -34,6 +34,25 @@ Favorite show in fall of 2023: _Goosebumps_ (1995 TV series)
 
 Favorite book series to read as a kid: _Animorphs_
 
+[Amusing video I saw about table tennis](https://youtu.be/HlusZiyl_5Q?si=Yjw_vZ-3bcs0nknq)
+
+This ranking of the seasons:
+1. Fall
+2. Spring
+3. Winter
+4. Summer
+
+&nbsp;
+
+## Assorted activities I find enjoyable: 
+- Playing ping pong
+- Video editing
+- Bicycling
+- Hiking
+- Traveling
+- Eclectic learning, especially about trivia
+- Listening to guitar and piano music
+
 &nbsp;
 
 &nbsp;
@@ -84,7 +103,7 @@ Hometown: Fremont, CA (a city in the east SF bay area)
 
 &nbsp;
 
-<img src=Images/IMG_5747.jpg width="600" height="450" />
+![Yosemite](Images/IMG_5747.jpg)
 Where I went over spring break: Yosemite National Park
 
 &nbsp;
