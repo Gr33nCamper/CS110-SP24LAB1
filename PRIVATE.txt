@@ -1,4 +1,2 @@
 Paul Peng
 A16640063
-
-.gitignore
