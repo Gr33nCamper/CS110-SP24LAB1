@@ -96,12 +96,14 @@ This ranking of the seasons:
 
 ## Pictures I took
 
-<img src=Images/IMG_2526.JPG width="600" height="450" />
+<img src=https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_2526.JPG width="600" height="450">
 Hometown: Fremont, CA (a city in the east SF bay area)
 
 &nbsp;
 
 [Where I went over spring break](https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_5747.jpg?raw=true)
+
+&nbsp;
 
 &nbsp;
 
