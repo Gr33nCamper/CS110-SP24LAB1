@@ -112,4 +112,4 @@ Where I went over spring break: [Yosemite National Park](https://github.com/Gr33
 
 ---
 
-[README](https://github.com/Gr33nCamper/CS110-SP24LAB1/README)
+[README](README.md)
