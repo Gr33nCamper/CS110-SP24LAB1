@@ -1,6 +1,6 @@
 # A little bit about me
 
-<img src=Images/IMG_9715.jpg width="225" height="250" />
+<img src=Images/IMG_9715.jpg width="480" height="550" />
 
 Hello! My name is Paul Peng. I'm a 4th year at UCSD studying biochemistry and mathematics-computer science. I have experience with the major programming languages (python, java, C and C++) and am familiar with markdown. 
 
@@ -101,10 +101,7 @@ Hometown: Fremont, CA (a city in the east SF bay area)
 
 &nbsp;
 
-&nbsp;
-
-![Yosemite](Images/IMG_5747.jpg)
-Where I went over spring break: Yosemite National Park
+[Where I went over spring break](https://github.com/Gr33nCamper/CS110-SP24LAB1/blob/add-fav-coding-lang/Images/IMG_5747.jpg?raw=true)
 
 &nbsp;
 
